@@ -3,7 +3,9 @@
 + CPU:I5-8500
 + 显卡：RX560
 + 内存：海盗船DDR4-3000-8G
-+ 无线：英特尔9560ac无线网卡
++ 无线网卡：英特尔9560ac无线网卡
++ 声卡: Realtek® ALC892 (Layout-id：1)
++ 网卡：Intel I219V7 PCI Express Gigabit- Ethernet
 # BIOS Setting
 Disable
 * Fast Boot
